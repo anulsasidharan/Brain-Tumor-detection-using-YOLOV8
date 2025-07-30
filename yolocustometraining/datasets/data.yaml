@@ -1,0 +1,7 @@
+path: C:/Users/Euron/Desktop/Euron_DS/26_7th_June_2025/yolocustometraining/datasets
+train: images/train
+val: images/val
+
+nc: 2
+names: ['tumour', 'no tumour']
+
